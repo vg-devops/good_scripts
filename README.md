@@ -13,4 +13,4 @@ The usage is self explanatory when you open the script. By default it is made fo
 
 **DESCLAIMER
 **
-Author is not responsible for any potential damage that can be causes to your files, partial or complete loss of the information that can potentially arise from use of these scripts, so use them with care and be cautious.**
+Author is not responsible for any potential damage that can be caused to your files, partial or complete loss of the information that can potentially arise from use of these scripts, so use them with care and be cautious.**
