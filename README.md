@@ -8,3 +8,8 @@
 
 2. Find Guilty Line - use this script to find a line within your git repo, which was added any 'commits' ago and you want to identify how / by whom it was added. 
 3. Find Guyilty Author - this script is similar to above but uses **author name** to find all commits submitted by a particular person, another, very useful option for git users.
+
+
+**DESCLAIMER
+**
+Author is not responsible for any potential damage that can be causes to your files, partial or complete loss of the information that can potentially arise from use of these scripts, so use them with care and be cautious.**
